@@ -11,7 +11,7 @@ Exercise Repo: [JavaScript Loops](https://github.com/Bryantellius/JavaScript_Sel
 5. Follow the instructions on the README.md file to complete exercises
 6. Open the `app.js` file to get started
 
-## Exercise 1: Ignore Even
+## Exercise 1: Ignore Even- Print Odds Only
 
 In this exercise, you will be counting from 1 - 100. For each odd number, you will print the number to the console. If the number is even, do nothing.
 
@@ -23,8 +23,8 @@ In this exercise, you will be counting from 1 - 100. For each odd number, you wi
 
 FIZZBUZZ is a very common coding interview problem. Below are the instructions to solving the problem:
 
-1. Create a `for` loop that evaluates numbers from 1 to 100 like the problem above.
-2. Write a `if/else` selection statement inside the body of the the loop that checks the following:
+1. Create .
+2. Write a `if/elsea `for` loop that evaluates numbers from 1 to 100 like the problem above` selection statement inside the body of the the loop that checks the following:
    - If the number is divisible by 3, then console.log `'FIZZ'`
    - If the number is divisible by 5, then console.log `'BUZZ'`
    - If the number is divisible by both 3 and 5, then console.log `'FIZZBUZZ'`
